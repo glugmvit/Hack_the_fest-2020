@@ -11,3 +11,4 @@ caseSensitive: false
 labelMappings:
   add: hacktoberfest-accepted
   added: hacktoberfest-accepted
+  create: hactoberfest-accepted
